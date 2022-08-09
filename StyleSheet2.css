@@ -1,0 +1,109 @@
+﻿body
+{
+}
+
+
+.arka {
+    position: absolute;
+    background-color: white;
+    height: 750px;
+    width: 1490px;
+    z-index: 1;
+}
+
+.index1 {
+    position: absolute;
+    font-family: tahoma;
+    z-index: 2;
+    color: midnightblue;
+    left: 20px;
+    top: 10px;
+    width: 5px;
+    height: 20px;
+    text-align: left;
+}
+
+.dekor1 {
+    position: absolute;
+    background-color: midnightblue;
+    width: 3px;
+    height: 450px;
+    z-index: 2;
+    left: 20px;
+    top: 280px;
+}
+
+.dekor2 {
+    position: absolute;
+    background-color: mediumslateblue;
+    width: 1500px;
+    height: 230px;
+    opacity: 0.1;
+    z-index: 2;
+    left: 0px;
+    top: 20px;
+}
+.index2 {
+    position:absolute;
+    padding: 90px 400px 60px 630px;
+    color: midnightblue;
+    font-family: tahoma;
+    font-weight: bold;
+    z-index: 3;
+    font-size: xx-large;
+    
+}
+.index21 {
+    position: absolute;
+    padding: 250px 400px 60px 650px;
+    color: midnightblue;
+    font-family: tahoma;
+    z-index: 3;
+    font-weight:normal;
+    font-style:italic;
+    font-size: x-large;
+}
+
+
+.table {
+    position: absolute;
+    font-family: tahoma;
+    z-index: 2;
+    color: midnightblue;
+    left: 300px;
+    top: 330px;
+    width: 800px;
+    height: 300px;
+}
+.submit {
+    position: absolute;
+    font-family: tahoma;
+    z-index: 2;
+    color: midnightblue;
+    left: 1150px;
+    top:465px;
+    height:30px;
+    width:80px;
+    background-color:midnightblue;
+    color:white;
+}
+
+.dekor3 {
+    position: absolute;
+    background-color: midnightblue;
+    width: 50px;
+    height: 710px;
+    z-index: 2;
+    left: 1450px;
+    top: 20px;
+}
+
+.dekor4 {
+    position: absolute;
+    background-color: midnightblue;
+    width: 1440px;
+    height: 50px;
+    z-index: 2;
+    left: 20px;
+    top: 680px;
+}
